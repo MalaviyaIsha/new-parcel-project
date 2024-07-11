@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "homepage": "https://MalaviyaIsha.github.io/new-parcel-project",
-  "source": "src/index.html src/css/style.css",
+  "source": [
+    "src/index.html",
+    "src/css/style.css"
+  ],
   "scripts": {
     "start": "parcel",
     "build": "parcel build --dist-dir public",
